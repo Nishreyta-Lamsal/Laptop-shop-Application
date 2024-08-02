@@ -1,0 +1,5 @@
+Macbook Pro16,Apple,$3500,50,i5 9thGen,GTX3070
+XPS dell,Dell,$1976,90,i5 9thGen,GTX3070
+Swift  7,Apple,$900,18,i5 9thGen,GTX3070
+Alien Ware,Alien,$1978,100,i5 9thGen,GTX3070
+Razer Blade,Razer,$2000,19,i7 7thGen,GTX3060
